@@ -13,6 +13,7 @@ Table of contents
 - [Accessibility](#accessibility)
 - [Development](#development)
 - [Contributing](#contributing)
+- [Supporting the project](#supporting-the-project)
 - [License](#license)
 
 Overview
@@ -123,6 +124,18 @@ Suggested CONTRIBUTING steps:
 - Fork the repo
 - Create a feature branch
 - Open a pull request with a descriptive title and description of changes
+
+Supporting the project
+------------
+If this tool helps you in your work or studies, consider supporting development:
+
+<div align="center">
+  <a href="https://send.monobank.ua/jar/8HQAch1y6E" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Support_Development-Monobank-%2300B2FF?style=for-the-badge&logo=monobank" alt="Support Development" height="50" style="border-radius: 8px;">
+  </a>
+</div>
+
+Your support helps improve and maintain all projects!
 
 License
 -------
