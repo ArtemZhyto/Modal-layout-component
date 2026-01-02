@@ -1,6 +1,6 @@
 # Modal-layout-component
 
-A small, accessible modal layout component for React / Next.js (TypeScript).
+A small, accessible headless modal layout component for React / Next.js (TypeScript).
 This repository contains a focus-trapping, keyboard-friendly modal with body scroll locking and CSS-driven open/close animations. The component is lightweight and designed to be used in Next.js "use client" components, but it works in any React environment that supports hooks and TypeScript.
 
 Table of contents
